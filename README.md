@@ -1,4 +1,17 @@
-### Hi there 👋
+# Junior in high school driven by robotics and engineering
+
+## Current Favorite Project
+### The EVA Project (10/27/2022 - Present)
+A custom head unit I've been developing for a few months now, designed specifically for my 2000 Mustang
+
+## Languages Tackled
+* Python
+* C#
+* Java
+* Javascript (CSS and HTML included)
+
+## Contacts
+* Discord: Misty#4637
 
 <!--
 **ApBertran/ApBertran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
