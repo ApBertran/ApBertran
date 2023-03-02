@@ -7,6 +7,7 @@ A custom head unit I've been developing for a few months now, designed specifica
 ## Languages Tackled
 * Python
 * C#
+* C++
 * Java
 * Javascript (CSS and HTML included)
 
