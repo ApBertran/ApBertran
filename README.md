@@ -12,6 +12,7 @@ A custom head unit I've been developing for a few months now, designed specifica
 * C#
 * C++
 * Java
+* Processing
 * Javascript (CSS and HTML included)
 
 ## Contacts
