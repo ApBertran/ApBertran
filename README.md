@@ -1,7 +1,8 @@
 # Junior in high school driven by robotics and engineering
-* Lead Software Developer for Jesuit High School Robotics
+* Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics
 * 2022 MATE ROV Competition Collegiate Division World Champion
 * 2022 California State Senate Certificate of Recognition Recipient (STEM)
+* 2023 MATE ROV Competition Collegiate Division World Champion
 
 ## Current Favorite Project
 ### The EVA Project (10/27/2022 - Present)
