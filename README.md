@@ -1,5 +1,5 @@
-# Junior in high school driven by robotics and engineering
-* Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics
+# Senior in high school driven by robotics and engineering
+* COO, Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics
 * 2022 MATE ROV Competition Collegiate Division World Champion
 * 2022 California State Senate Certificate of Recognition Recipient (STEM)
 * 2023 MATE ROV Competition Collegiate Division World Champion
@@ -15,6 +15,7 @@ A custom head unit I've been developing for a few months now, designed specifica
 * Java
 * Processing
 * Javascript (CSS and HTML included)
+* Lua
 
 ## Contacts
 * Discord: Misty#4637
