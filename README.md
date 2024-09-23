@@ -1,9 +1,12 @@
-# Senior in high school driven by robotics and engineering
-* COO, Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics
+# First-Year Computer Science Major at Cal Poly SLO
+<!-- * COO, Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics -->
+
+## Jesuit High School Robotics
 * 2022 MATE ROV Competition Collegiate Division World Champion
 * 2022 California State Senate Certificate of Recognition Recipient (STEM)
 * 2023 MATE ROV Competition Collegiate Division World Champion
-
+* 2024 MATE ROV Competition Collegiate Division Second Place
+<!--
 ## Current Favorite Project
 ### The EVA Project (10/27/2022 - Present)
 A custom head unit I've been developing for a few months now, designed specifically for my 2000 Mustang
@@ -19,7 +22,7 @@ A custom head unit I've been developing for a few months now, designed specifica
 
 ## Contacts
 * Discord: Misty#4637
-
+-->
 <!--
 **ApBertran/ApBertran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
