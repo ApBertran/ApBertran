@@ -1,15 +1,19 @@
 # First-Year Computer Science Major at Cal Poly SLO
-<!-- * COO, Lead Software Developer, Integrations Lead, and ROV pilot for Jesuit High School Robotics -->
 
-## Jesuit High School Robotics
-* 2022 MATE ROV Competition Collegiate Division World Champion
-* 2022 California State Senate Certificate of Recognition Recipient (STEM)
-* 2023 MATE ROV Competition Collegiate Division World Champion
-* 2024 MATE ROV Competition Collegiate Division Second Place
+## Jesuit High School Robotics - COO, Pilot, Integrations Lead, and Lead Software Developer
+* 2x MATE ROV Competition Collegiate Division World Champion (2022, 2023)
+* 1x MATE ROV Competition Collegiate Division Second Place (2024)
+* Highest Scoring Pilot in Collegiate Division History (2024, 300 points)
+* California State Senate Certificate of Recognition Recipient (STEM, 2022)
+
+## Projects
+
+### FROST-Project (8/30/2024 - Present)
+A wearable forearm device for snowboarding including music control, stopwatch, time, real-time weather, and GPS
+
+### EVA-Project (10/27/2022 - Pause)
+A custom head unit with IMU data designed for track use in my 2000 Mustang. Development has been paused while in college without my car.
 <!--
-## Current Favorite Project
-### The EVA Project (10/27/2022 - Present)
-A custom head unit I've been developing for a few months now, designed specifically for my 2000 Mustang
 
 ## Languages Tackled
 * Python
