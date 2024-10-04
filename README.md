@@ -9,7 +9,7 @@
 ## Projects
 
 ### FROST-Project (8/30/2024 - Present)
-A wearable forearm device for snowboarding including music control, stopwatch, time, real-time weather, and GPS
+A wearable forearm device for snowboarding including music control, stopwatch, time, weather, and GPS
 
 ### EVA-Project (10/27/2022 - Pause)
 A custom head unit with IMU data designed for track use in my 2000 Mustang. Development has been paused while in college without my car.
