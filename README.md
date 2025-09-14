@@ -1,4 +1,4 @@
-# First-Year Computer Science Major at Cal Poly SLO
+# Second-Year Mechanical Engineering Major at Cal Poly SLO
 
 ## Jesuit High School Robotics - COO, Pilot, Integrations Lead, and Lead Software Developer
 * 2x MATE ROV Competition Collegiate Division World Champion (2022, 2023)
